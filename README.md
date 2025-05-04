@@ -4,6 +4,8 @@
 
 This document describes the work completed by **Alvin Phan** as part of a group project on 5G Network Performance Analysis. My task was focused exclusively on **clustering and evaluation**, using a dataset pre-processed by Savindu and Chung. The output of this stage feeds into Maisha’s forecasting task.
 
+The saved directory for this code can be accessed via this link below:
+https://drive.google.com/drive/folders/1Y1B1n_ddsYAEVwDBjVrewPzL3_UYevRg?usp=sharing
 ---
 
 ## 💻 How to Run
