@@ -49,5 +49,3 @@ This document describes the work completed by **Alvin Phan** as part of a group 
 ## 👤 Author
 
 * **Alvin Phan** — Cluster Modeling & Evaluation
-
-*Created with support from ChatGPT + Colab*
