@@ -11,7 +11,7 @@ This document describes the work completed by **Alvin Phan** as part of a group 
 1. Upload files to Google Drive: `drive/MyDrive/COS40007 Design Project/data/processed/` ⚠️Make sure to change path or modify your own path to match⚠️
 2. Open **Clustering & Analysis.ipynb** in Google Colab
 3. Use `cluster_ready.csv` as the dataset input
-4. Adjust `sample_size` in each method (default = 30,000 rows)
+4. Adjust `sample_size` in each method, default = 30,000 rows (most reliable, consistently crashing past 50k)
 5. Restart runtime after each method if memory is limited
 
 > Tested on a 10GB RAM session. Agglomerative clustering is the most memory intensive.
