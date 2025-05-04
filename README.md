@@ -2,7 +2,7 @@
 
 ## Role in Group Project
 
-This document describes the work completed by **Alvin Phan** as part of a group project on 5G Network Performance Analysis. Alvin's task was focused exclusively on **clustering and evaluation**, using a dataset pre-processed by Savindu and Chung. The output of this stage feeds into Maisha’s forecasting task.
+This document describes the work completed by **Alvin Phan** as part of a group project on 5G Network Performance Analysis. My task was focused exclusively on **clustering and evaluation**, using a dataset pre-processed by Savindu and Chung. The output of this stage feeds into Maisha’s forecasting task.
 
 ---
 
