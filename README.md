@@ -41,13 +41,6 @@ https://drive.google.com/drive/folders/1Y1B1n_ddsYAEVwDBjVrewPzL3_UYevRg?usp=sha
 
 ---
 
-## ✅ Your Contribution
-
-* You may expand the analysis by increasing `sample_size` on higher-memory machines
-* Forecasting team can reuse saved cluster outputs (e.g., `kmeans_30k.csv`) as inputs
-
----
-
 ## 👤 Author
 
 * **Alvin Phan** — Cluster Modeling & Evaluation
