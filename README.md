@@ -1,8 +1,8 @@
-# README: Clustering & Evaluation Task (Alvin Phan)
+# README: Clustering & Evaluation Task (Savindu Wickramasinghe)
 
 ## Role in Group Project
 
-This document describes the work completed by **Alvin Phan** as part of a group project on 5G Network Performance Analysis. My task was focused exclusively on **clustering and evaluation**, using a dataset pre-processed by Savindu and Chung. The output of this stage feeds into Maisha’s forecasting task.
+This document describes the work completed by **Savindu Wickramasinghe** as part of a group project on 5G Network Performance Analysis. My task was focused exclusively on **clustering and evaluation**, using a dataset pre-processed by Alvin and Chung. The output of this stage feeds into Maisha’s forecasting task.
 
 The saved directory for this project can be accessed via this link below:
 https://drive.google.com/drive/folders/1Y1B1n_ddsYAEVwDBjVrewPzL3_UYevRg?usp=sharing
@@ -50,4 +50,4 @@ https://drive.google.com/drive/folders/1Y1B1n_ddsYAEVwDBjVrewPzL3_UYevRg?usp=sha
 
 ## 👤 Author
 
-* **Alvin Phan** — Cluster Modeling & Evaluation
+* **Savindu Wickramasinghe** — Cluster Modeling & Evaluation
